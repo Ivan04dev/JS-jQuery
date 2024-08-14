@@ -1,0 +1,6 @@
+- Ejemplo de selectores
+
+let infoUser = documet.querySelector('#infoUser');
+infoUser.hide();
+
+ $("#infoUser").hide();
